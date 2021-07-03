@@ -1,0 +1,6 @@
+ALGORITHMS,ACCURACY,PRECISION ,RECALL,F SCORE
+Random Forest,93.84%,93.75%,93.75%,93.75%
+K-Nearest Neighbors,92.44%,91.16%,93.75%,92.44%
+Naïve Bayes,85.15%,85.14%,84.66%,84.90%
+Decision Tree,89.36%,86.32%,93.18%,89.62%
+Logistic Regression,82.63%,80.98%,84.66%,82.78%
